@@ -1,0 +1,7 @@
+Êþº¾   4 
+  	  	     username Ljava/lang/String; password <init> ()V Code LineNumberTable LocalVariableTable this Lcom/javainuse/model/UserDTO; getUsername ()Ljava/lang/String; setUsername (Ljava/lang/String;)V MethodParameters getPassword setPassword 
+SourceFile UserDTO.java 	 
+     com/javainuse/model/UserDTO java/lang/Object !                  	 
+     /     *· ±                               /     *´ °                               >     *+µ ±       
+                                       /     *´ °                               >     *+µ ±       
+                                     

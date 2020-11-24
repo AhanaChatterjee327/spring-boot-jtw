@@ -1,0 +1,9 @@
+Êþº¾   4 *
+  "
+  #
+  $	  %	  & ' ( ) serialVersionUID J ConstantValueR?ÆÆˆÝó username Ljava/lang/String; password <init> ()V Code LineNumberTable LocalVariableTable this  Lcom/javainuse/model/JwtRequest; '(Ljava/lang/String;Ljava/lang/String;)V MethodParameters getUsername ()Ljava/lang/String; setUsername (Ljava/lang/String;)V getPassword setPassword 
+SourceFile JwtRequest.java           com/javainuse/model/JwtRequest java/lang/Object java/io/Serializable !       	 
+                         3     *· ±       
+                          Y     *· *+¶ *,¶ ±              	                                	              /     *´ °                               >     *+µ ±       
+                                       /     *´ °                                >     *+µ ±       
+    $  %                                !

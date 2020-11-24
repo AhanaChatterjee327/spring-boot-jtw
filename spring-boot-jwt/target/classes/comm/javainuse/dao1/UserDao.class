@@ -1,0 +1,3 @@
+Êþº¾   4   com/javainuse/dao/UserDao  java/lang/Object  2org/springframework/data/repository/CrudRepository findByUsername 1(Ljava/lang/String;)Lcom/javainuse/model/DAOUser; 
+SourceFile UserDao.java  Signature xLjava/lang/Object;Lorg/springframework/data/repository/CrudRepository<Lcom/javainuse/model/DAOUser;Ljava/lang/Integer;>; RuntimeVisibleAnnotations +Lorg/springframework/stereotype/Repository;             	    
+             

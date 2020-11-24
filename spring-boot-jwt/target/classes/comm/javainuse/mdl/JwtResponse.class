@@ -1,0 +1,7 @@
+ ˛∫æ   4 
+  	      serialVersionUID J ConstantValueè≥ﬁ÷®tÏ jwttoken Ljava/lang/String; <init> (Ljava/lang/String;)V Code LineNumberTable LocalVariableTable this !Lcom/javainuse/model/JwtResponse; MethodParameters getToken ()Ljava/lang/String; 
+SourceFile JwtResponse.java     com/javainuse/model/JwtResponse java/lang/Object java/io/Serializable ()V !              	              F     
+*∑ *+µ ±           
+   	         
+       
+                  /     *¥ ∞                             
